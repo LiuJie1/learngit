@@ -1,0 +1,5 @@
+1.初始化仓库：git init
+2.添加文件到git仓库分两步
+(1)git add<file>
+(2)git commit -m<message>
+
